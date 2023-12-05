@@ -46,7 +46,7 @@
     <h1 class="m-0"><img src="img/heroo.png" alt="Logo"> </i> SMK<span class="fs-5"> Bina Cendekia </span></h1>
     </a>
  <!-- end logo -->
-
+ </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
     <span class="fa fa-bars"></span>
     </button>
@@ -248,9 +248,7 @@
                 <div class="row mt-n2 wow fadeInUp" data-wow-delay="0.1s">
                           <div class="col-12 text-center">
                                     <ul class="list-inline mb-5" id="portfolio-flters">
-                                 <li class="btn px-3 pe-4 active" data-filter="*">semua</li>
-                              <li class="btn px-3 pe-4" data-filter=".first">Design</li>
-                            <li class="btn px-3 pe-4" data-filter=".second">Development</li>
+                                 <li class="btn px-3 pe-4 active" data-filter="*">semua Kegiatan</li>
                         </ul>
                     </div>
                 </div>

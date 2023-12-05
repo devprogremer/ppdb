@@ -44,27 +44,26 @@
 
 
         <!-- Navbar & Hero Start -->
-        <div class="container-xxl position-relative p-0">
-            <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
-                <a href="" class="navbar-brand p-0">
+    <div class="container-xxl position-relative p-0">
+    <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
+
  <!-- logo -->
- <a href="" class="navbar-brand p-0">
+    <a href="" class="navbar-brand p-0">
     <h1 class="m-0"><img src="img/heroo.png" alt="Logo"> </i> SMK<span class="fs-5"> Bina Cendekia </span></h1>
     </a>
  <!-- end logo -->
-                  
-                </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-                    <span class="fa fa-bars"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarCollapse">
-                    <div class="navbar-nav ms-auto py-0">
-                    <a href="index.php" class="nav-item nav-link">Home</a>
-                        <a href="profil.php" class="nav-item nav-link ">Profil</a>
-                        <a href="panduan.php" class="nav-item nav-link active">Panduan</a>
-                        <a href="jurusan.php" class="nav-item nav-link">Jurusan</a>
-                        <a href="contact.php" class="nav-item nav-link">Contact</a>
-                    </div>
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+    <span class="fa fa-bars"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+    <div class="navbar-nav ms-auto py-0">
+        <a href="index.php" class="nav-item nav-link ">Home</a>
+        <a href="profil.php" class="nav-item nav-link ">Profil</a>
+        <a href="panduan.php" class="nav-item nav-link active">Panduan</a>
+        <a href="jurusan.php" class="nav-item nav-link">Jurusan</a>
+        <a href="contact.php" class="nav-item nav-link">Contact</a>
+    </div>
                     <butaton type="button" class="btn text-secondary ms-3" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa fa-search"></i></butaton>
                     <a href="login.php" class="btn btn-secondary text-light rounded-pill py-2 px-4 ms-3">Login</a>
                     <a href="registrasi.php" class="btn btn-secondary text-light rounded-pill py-2 px-4 ms-3">Register</a>

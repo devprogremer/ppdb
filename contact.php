@@ -80,7 +80,7 @@
       <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="w-100" src="img/pdb-4.png" alt="Image" />
+            <img class="w-100" src="img/header/1.png" alt="Image" />
             <div class="carousel-caption">
               <div class="container">
                 <div class="row justify-content-center">
@@ -122,7 +122,7 @@
                   
                     <div class="tz-map-us" id="fc">
                         <center><h3><a href="#">Info Biaya & Lainnya</a></h3>
-                        <center><h6>Dapatkan informasi biaya dan brosur PPDB SMK Bina Cendekia dengan Klik Whatsapp di bawah ini. <br>Isi dengan nama lengkap dan nomor aktif, karena kami akan mengirim informasi melalui Whatsapp.</h6>
+                        <center><h6>Dapatkan informasi biaya dan brosur PPDB SMK Bina Cendekia dengan Klik Daftar Ulang di bawah ini. <br>Isi Nama Lengkap Dan Nomor Aktif Dengan Benar, karena kami akan mengirim informasi melalui Whatsapp.</h6>
 
                         <!-- ======= About Section ======= -->
  <section id="about" class="about">
@@ -131,9 +131,9 @@
         <div class="row">
           <div class="col-md-12 text-center">
           <div class="text-white">SMK BINA CENDEKIA</h2>
-          <div class="testimonial">Setelah “Klik Hubungi Kami” anda akan diarahkan untuk terhubung ke WhatsApp admin.</h5><br>
-            <a href="https://wa.me/message/X76DQCFE4IYTC1" target="_blank" class="btn btn-primary mt-2 px-4 py-2 text-white"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-whatsapp" viewBox="0 0 18 18">
-              </svg> <b>Hubungi Kami</a>
+          <div class="testimonial">Setelah “Klik Daftar Ulang” anda akan diarahkan untuk Mengisi Google Formulir.</h5><br>
+            <a href="https://forms.gle/YNBZRjQVfCcrrxrq6" target="_blank" class="btn btn-primary mt-2 px-4 py-2 text-white"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-whatsapp" viewBox="0 0 18 18">
+              </svg><b>Daftar Ulang Sekarang</a>
           </div>
         </div>
       </div>

@@ -96,3 +96,17 @@ while($rm = mysqli_fetch_array($sql)){
     </div>
   </div>
 </div>
+<br>
+<div class="row">
+  <div class="col-sm-6 mb-3 mb-sm-0">
+    <div class="card">
+      <div class="card-body btn btn-warning">
+	  <div class="social-icon">
+        <i class="fa fa-users text-dark icon-xlg pull-right"></i>
+         </div>
+	  	<h2 class="counttype text-dark">Jumlah Member</h2>
+		  <span class="percent">5% increase from last week</span>
+		<h3 class="number_counter bold count text-dark start_timer counted"><?php echo "$jmlr" ?></h3>
+      </div>
+    </div>
+  </div>

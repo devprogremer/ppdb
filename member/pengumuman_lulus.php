@@ -63,7 +63,7 @@
             <br><br>
                 <div align="center">
                    <td >Informasi Selengkapnya Silahkan Cetak Bukti Kelulusan Untuk Melakukan Pendaftaran Ulang <br> 
-                    Untuk Jadwal Pendaftaran Ulang Bisa Di lihat Pada Halaman Utama Website Ini.</td>      
+                    Untuk Jadwal Pendaftaran Ulang Bisa Di lihat Di Menu Contact Pada Halaman Utama Website Ini.</td>      
             </div>
             <br><br>
         </body>
