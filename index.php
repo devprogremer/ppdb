@@ -10,7 +10,7 @@
 
     
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link href="img/heroo.png" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -58,9 +58,8 @@
         <a href="jurusan.php" class="nav-item nav-link">Jurusan</a>
         <a href="contact.php" class="nav-item nav-link">Contact</a>
     </div>
-    <butaton type="button" class="btn text-secondary ms-3" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa fa-search"></i></butaton>
-    <a href="login.php" class="btn btn-secondary text-light rounded-pill py-2 px-4 ms-3">Login</a>
-    <a href="registrasi.php" class="btn btn-secondary text-light rounded-pill py-2 px-4 ms-3">Register</a>
+    <a href="login.php" class="btn btn-secondary text-light rounded-pill py-2 px-4 ms-3">Login <i class="fa fa-lock"></i></a>
+    <a href="registrasi.php" class="btn btn-secondary text-light rounded-pill py-2 px-4 ms-3">Register <i class="fa fa-user-circle"></i></a></a>
     </div>
     </nav>
 
@@ -70,8 +69,8 @@
                         <div class="col-lg-6 text-center text-lg-start">
                             <h1 class="text-white mb-4 animated zoomIn">Sekolah Industri Berbasis Pesantren</h1>
                             <p class="text-white pb-3 animated zoomIn">Pendidikan bukanlah proses mengisi wadah yang kosong. Pendidikan adalah proses menyalakan api pikiran.</p>
-                            <a href="registrasi.php" class="btn btn-light py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Registrasi Sekarang >></a>
-                            </div>
+                            <p><a href="registrasi.php" class="btn btn-light btn-outline-dark">Registrasi Sekarang <i class="fa fa-user-circle"></i></a> <a href="download.php" class="btn btn-light btn-outline-dark">Download PPDB <i class="fa fa-download"></i></a></p>
+							</div>
                             <div class="col-lg-6 text-center text-lg-start">
                             <img class="img-fluid" src="img/heroo.png" alt="Logo Smk ">
                          </div>
@@ -357,7 +356,7 @@
 <i class="fa fa-quote-left fa-2x mb-3"></i>
                         <p align="justify">Pada Tahun 2011 dengan izin Allah SWT, PT. Raudhatussyfaa Sehat Bersama dapat membeli tanah di Jl.Tuparev No. 117 Pilangsari Cirebon yang akan diperuntukan untuk Rumah Sakit. Pembangunan Rumah Sakit sempat maju mundur selama beberapa tahun karena satu dan lain hal, dan pada tahun 2013 atas dasar persamaan visi dan misi .</p>
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/permata.jpeg" style="width: 50px; height: 50px;">
+                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/perusahaan/permata.jpeg" style="width: 50px; height: 50px;">
                             <div class="ps-3">
                                 <h6 class="text-white mb-1">Rumah Sakit Permata Cirebon</h6>
                                 <small>Profession</small>

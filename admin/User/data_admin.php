@@ -49,7 +49,7 @@ $sqlt = mysqli_query($koneksi, "select * from tbl_admin");
 $no=1;
 ?>
 
-				<table id="table_id"  class="table table-bordered">
+				<table id="table_id"  class="table hover multiple-select-row data-table-export nowrap">
 					<thead>
           <tr>
  	          <th colspan="6"><button type="button" class="btn  btn-info" data-toggle="modal" data-target="#modal-success">Tambah Data</button></th><br><br>
@@ -138,3 +138,23 @@ $no=1;
         <button type="submit" name="simpan" class="btn btn-success">Simpan</button>
       </div>
 
+	  <!-- js -->
+<script src="../vendors/scripts/core.js"></script>
+	<script src="../vendors/scripts/script.min.js"></script>
+	<script src="../vendors/scripts/process.js"></script>
+	<script src="../vendors/scripts/layout-settings.js"></script>
+	<script src="../vendors/src/plugins/datatables/js/jquery.dataTables.min.js"></script>
+	<script src="../vendors/src/plugins/datatables/js/dataTables.bootstrap4.min.js"></script>
+	<script src="../vendors/src/plugins/datatables/js/dataTables.responsive.min.js"></script>
+	<script src="../vendors/src/plugins/datatables/js/responsive.bootstrap4.min.js"></script>
+	<!-- buttons for Export datatable -->
+	<script src="../vendors/src/plugins/datatables/js/dataTables.buttons.min.js"></script>
+	<script src="../vendors/src/plugins/datatables/js/buttons.bootstrap4.min.js"></script>
+	<script src="../vendors/src/plugins/datatables/js/buttons.print.min.js"></script>
+	<script src="../vendors/src/plugins/datatables/js/buttons.html5.min.js"></script>
+	<script src="../vendors/src/plugins/datatables/js/buttons.flash.min.js"></script>
+	<script src="../vendors/src/plugins/datatables/js/pdfmake.min.js"></script>
+	<script src="../vendors/src/plugins/datatables/js/vfs_fonts.js"></script>
+	<!-- Datatable Setting js -->
+	<script src="../vendors/scripts/datatable-setting.js"></script></body>
+</html>
