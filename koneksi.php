@@ -1,13 +1,19 @@
-<?php   
+<?php
 $server = "localhost";
-$user = "root";
+$username = "root";
 $password = "";
-$nama_database = "smk";
+$database = "smk";
 
-$koneksi = mysqli_connect("localhost","root","","smk");
+// Membuat koneksi
+$koneksi = new mysqli($server, $username, $password, $database);
 
-if( !$koneksi ){
-    die("Gagal terhubung dengan database: " .mysqli_connect_error());
+// Memeriksa koneksi
+if ($koneksi->connect_error) {
+    die("Koneksi gagal: " . $koneksi->connect_error);
+} else {
+  
 }
 
+// Tutup koneksi (opsional)
+// $koneksi->close();
 ?>

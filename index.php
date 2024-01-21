@@ -60,7 +60,8 @@
     </div>
     <a href="login.php" class="btn btn-secondary text-light rounded-pill py-2 px-4 ms-3">Login <i class="fa fa-lock"></i></a>
     <a href="registrasi.php" class="btn btn-secondary text-light rounded-pill py-2 px-4 ms-3">Register <i class="fa fa-user-circle"></i></a></a>
-    </div>
+    
+</div>
     </nav>
 
             <div class="container-xxl py-5 bg-primary hero-header mb-5">
@@ -69,7 +70,7 @@
                         <div class="col-lg-6 text-center text-lg-start">
                             <h1 class="text-white mb-4 animated zoomIn">Sekolah Industri Berbasis Pesantren</h1>
                             <p class="text-white pb-3 animated zoomIn">Pendidikan bukanlah proses mengisi wadah yang kosong. Pendidikan adalah proses menyalakan api pikiran.</p>
-                            <p><a href="registrasi.php" class="btn btn-light btn-outline-dark">Registrasi Sekarang <i class="fa fa-user-circle"></i></a> <a href="download.php" class="btn btn-light btn-outline-dark">Download PPDB <i class="fa fa-download"></i></a></p>
+                            <p><a href="https://wa.me/message/X76DQCFE4IYTC1" class="btn btn-success btn-outline-light">Whatsapp <i class="bi bi-whatsapp"></i></a> <a href="download.php" class="btn btn-light btn-outline-dark">Download PPDB <i class="fa fa-download"></i></a></p>
 							</div>
                             <div class="col-lg-6 text-center text-lg-start">
                             <img class="img-fluid" src="img/heroo.png" alt="Logo Smk ">
